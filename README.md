@@ -8,7 +8,7 @@ O código permite também:
 - Gerar uma playlist em que pelo menos 50% das músicas são favoritas do usuário.
 
 Além disso a aplicação foi desenvolvida utilizando a arquitetura [MVC](https://www.lewagon.com/pt-BR/blog/o-que-e-padrao-mvc).
-### Linguagem utilizada
+### Linguagem utilizada:
 <ul>
     <li>
         <a href="https://docs.python.org/pt-br/3/tutorial/">
@@ -36,8 +36,8 @@ Além disso a aplicação foi desenvolvida utilizando a arquitetura [MVC](https:
  📍 Após a instalação é necessário estar dentro de um diretório que contenha os arquivos denominados: 
  - view.py
  - model.py
- - controler.py
- 
+ - controler.py 
+ ### Como usar:
  📍 Dentro do diretório indicado basta digitar o comando abaixo no terminal e utilizar a aplicação. O comando é o mesmo tanto para Windows quanto para Linux
  ```bash
      $ python3 view.py
